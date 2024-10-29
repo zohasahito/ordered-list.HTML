@@ -1,2 +1,2 @@
-# ordered-list.HTML
+# unordered-list.HTML
 Assignment 3:
